@@ -7,3 +7,4 @@
 #python ./src/antifraud.py ./paymo_input/batch_payment.txt ./paymo_input/stream_payment.txt ./paymo_output/output1.txt ./paymo_output/output2.txt ./paymo_output/output3.txt
 
 java  -cp out\production\FinalSubmission_DigitalWallet AntiFraud
+java  -cp out\production\FinalSubmission_DigitalWallet;libs\junit-4.12.jar;libs\hamcrest-all-1.3.jar org.junit.runner.JUnitCore AntiFraud_Your_Own_Test
