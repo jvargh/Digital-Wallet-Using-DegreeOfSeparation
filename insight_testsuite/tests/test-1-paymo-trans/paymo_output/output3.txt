@@ -1,1 +1,7 @@
-trusted
+unverified, 49466 -> 13167: Degree Of Separation > 4
+trusted, 49466 -> 2562: Degree Of Separation == 2
+trusted, 49466 -> 32639: Degree Of Separation == 3
+trusted, 49466 -> 15381: Degree Of Separation == 4
+unverified, 49466 -> 44444: Degree Of Separation > 4
+trusted, 31264 -> 2481: Degree Of Separation == 2
+trusted, 31264 -> 2481: Degree Of Separation == 2
