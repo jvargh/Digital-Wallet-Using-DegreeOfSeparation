@@ -8,3 +8,4 @@
 
 java  -cp out\production\FinalSubmission_DigitalWallet AntiFraud
 java  -cp out\production\FinalSubmission_DigitalWallet;libs\junit-4.12.jar;libs\hamcrest-all-1.3.jar org.junit.runner.JUnitCore AntiFraud_Your_Own_Test
+java  -cp out\production\FinalSubmission_DigitalWallet;libs\junit-4.12.jar;libs\hamcrest-all-1.3.jar org.junit.runner.JUnitCore AntiFraud_Test_1_Paymo_Trans
